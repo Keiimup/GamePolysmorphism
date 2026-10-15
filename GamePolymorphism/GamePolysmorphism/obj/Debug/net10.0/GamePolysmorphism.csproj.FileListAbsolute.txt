@@ -1,0 +1,14 @@
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\bin\Debug\net10.0\GamePolysmorphism.exe
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\bin\Debug\net10.0\GamePolysmorphism.deps.json
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\bin\Debug\net10.0\GamePolysmorphism.runtimeconfig.json
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\bin\Debug\net10.0\GamePolysmorphism.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\bin\Debug\net10.0\GamePolysmorphism.pdb
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.AssemblyInfoInputs.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.AssemblyInfo.cs
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.csproj.CoreCompileInputs.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\refint\GamePolysmorphism.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.pdb
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\GamePolysmorphism.genruntimeconfig.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GamePolymorphism\GamePolysmorphism\obj\Debug\net10.0\ref\GamePolysmorphism.dll
